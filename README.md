@@ -65,13 +65,17 @@ The instructions for this mini project are divided into the following subsection
 5. Using the database schema, create the tables in the correct order to handle the foreign keys.
 6. Verify the table creation by running a SELECT statement for each table. This step is documented in the images below:
 
-    'Category' Table:
+    ### 'Category' Table
+    ![Image 1](https://github.com/eaveltre21189/Crowdfunding_ETL/assets/122746294/bf6bbd0d-fb95-466d-a3b0-a40f1eb576da)
 
-    'Subcategory' Table:
+    ### 'Subcategory' Table
+    ![Image 2](https://github.com/eaveltre21189/Crowdfunding_ETL/assets/122746294/fdd0bcb4-2f59-4509-ac4d-7bd724ebd144)
+   
+    ### 'Campaign' Table
+    ![Image 3](https://github.com/eaveltre21189/Crowdfunding_ETL/assets/122746294/c63100f3-e430-4306-99e8-ed27436578fd)
 
-    'Campaign' Table:
-
-    'Contacts' Table:
+    ### 'Contacts' Table
+    ![Image 4](https://github.com/eaveltre21189/Crowdfunding_ETL/assets/122746294/ef2e5a2b-09a5-4642-9ef0-d420bc296edf)
 
 7. Import each CSV file into its corresponding SQL table.
 8. Verify that each table has the correct data by running a SELECT statement for each.
